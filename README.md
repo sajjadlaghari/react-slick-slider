@@ -1,3 +1,11 @@
+#Demo 
+
+
+
+https://github.com/Sajjadlaghari/react-slick-slider/assets/68752819/b8cbe3cd-8619-4a21-96c9-2cb381cfcca4
+
+
+
 # react-slick-slider
 
 ### Installation
