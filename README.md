@@ -196,8 +196,8 @@ Want to run demos locally
 ### Clone Project
 
 ```
-git clone https://github.com/akiran/react-slick
-cd react-slick
+git clone [https://github.com/akiran/react-slick](https://github.com/Sajjadlaghari/react-slick-slider.git)
+cd react-slick-slider
 npm install
 npm start
 open http://localhost:3000
