@@ -1,1 +1,3 @@
 # react-slick-slider
+
+### Installation
